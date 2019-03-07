@@ -1,3 +1,3 @@
 # lgit
 
-current:dev
+current:newdev
