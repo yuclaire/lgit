@@ -1,3 +1,3 @@
 # lgit
 
-current:master
+current:master  my bugfix ...
